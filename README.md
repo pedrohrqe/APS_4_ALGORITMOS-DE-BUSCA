@@ -13,7 +13,6 @@ Os seguintes algoritmos de busca são incluídos neste projeto:
 
 ## Requisitos 🛠️
 
-- Java JDK (versão X.X ou superior)
 - Ambiente de desenvolvimento Java de sua preferência
 
 ## Funcionalidades 🚀
